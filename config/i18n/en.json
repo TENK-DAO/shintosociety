@@ -1,18 +1,18 @@
 {
   "viewIn": "View in English",
   "langPicker": "English",
-  "title": "Misfits",
-  "description": "NEAR's first PFP-style NFTs",
-  "calendarEvent": "Go Mint a Misfit!",
+  "title": "Shinto Society",
+  "description": "A collection of 4,444 randomly-generated NFTs authentically designed by Mistcop. The primary focus of Shinto Society is to bring fans of anime, story-telling, NFT enthusiasts and others together in a safe space to interact, engage in healthy discussion, and utilize the project's art as a way to represent themselves in the future of the metaverse. We exist because YOU do. Simply put, each piece of art was hand crafted prior to it's algorithmic generation to represent someone out there in the world. While it is difficult to represent 100% of the world, we strive to touch the inner being of as many as possible through art, giving each person a chance to have a voice in this vast world.",
+  "calendarEvent": "Go Mint Shinto Society!",
   "connectWallet": "Connect Wallet",
   "signOut": "Sign Out",
   "myNFTs": "My NFTs",
   "hero": {
     "backgroundImage": "hero-bg.svg",
     "image": "hero.png",
-    "title": "The first fleet of the  \n*Metaverse*",
-    "body": "Join an Exclusive Community of NEAR early adopters and BUIDLers.",
-    "ps": "Misfits drop at SALE_START!",
+    "title": "#AnimeNFT Welcome to the Shinto Society",
+    "body": "A collection of 4,444 randomly-generated NFTs authentically designed by Mistcop. The primary focus of Shinto Society is to bring fans of anime, story-telling, NFT enthusiasts and others together in a safe space to interact, engage in healthy discussion, and utilize the project's art as a way to represent themselves in the future of the metaverse. We exist because YOU do. Simply put, each piece of art was hand crafted prior to it's algorithmic generation to represent someone out there in the world. While it is difficult to represent 100% of the world, we strive to touch the inner being of as many as possible through art, giving each person a chance to have a voice in this vast world.",
+    "ps": "Shinto Society drop at SALE_START!",
     "cta": "Add to Calendar",
     "action": "ADD_TO_CALENDAR(SALE_START)",
     "saleClosed": {
@@ -33,7 +33,7 @@
       }
     },
     "saleOpen": {
-      "ps": "Misfit Minting Has Begun!",
+      "ps": "Shinto Society Minting Has Begun!",
       "setNumber": "Number to mint",
       "cta": "Mint for MINT_PRICE",
       "action": "MINT",
@@ -43,7 +43,7 @@
     },
     "allSold": {
       "title": "All INITIAL_COUNT minted!",
-      "body": "The Misfits have all been created",
+      "body": "The Shinto Society have all been created",
       "ps": "",
       "cta": "Buy Pre-Owned",
       "action": "GO_TO_PARAS"
@@ -51,7 +51,7 @@
   },
   "extraSections": [
     {
-      "text": "# Introducing\n# NEAR Misfits (Gen 0)\n\n10,000 brave souls set out into the vast unknown to explore the Metaverse... Only 1,923 survived.\n\nThese Misfits are part of a Decentralised Special Operations crew from all over the world and all walks of life. A group of humans rising to the challenge of their times, coming together to build the Metaverse: challenge the status quo, push the boundaries of what is possible, build and contribute to enabling technology.",
+      "text": "# Launching Partner TenkBay DAO",
       "image": "learn.webp"
     }
   ]
