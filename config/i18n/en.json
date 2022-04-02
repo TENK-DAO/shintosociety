@@ -7,9 +7,14 @@
   "connectWallet": "Connect Wallet",
   "signOut": "Sign Out",
   "myNFTs": "My NFTs",
+  "nextNFT": "Next NFT",
+  "prevNFT": "Previous NFT",
+  "close": "Close",
+  "zoomIn": "Zoom In",
+  "zoomOut": "Zoom Out",
   "hero": {
     "backgroundImage": "hero-bg.svg",
-    "image": "hero.png",
+    "image": "shinto.png",
     "title": "#AnimeNFT Welcome to the Shinto Society",
     "body": "A collection of 4,444 randomly-generated NFTs authentically designed by Mistcop. The primary focus of Shinto Society is to bring fans of anime, story-telling, NFT enthusiasts and others together in a safe space to interact, engage in healthy discussion, and utilize the project's art as a way to represent themselves in the future of the metaverse. We exist because YOU do. Simply put, each piece of art was hand crafted prior to it's algorithmic generation to represent someone out there in the world. While it is difficult to represent 100% of the world, we strive to touch the inner being of as many as possible through art, giving each person a chance to have a voice in this vast world.",
     "ps": "Shinto Society drop at SALE_START!",
@@ -43,7 +48,7 @@
     },
     "allSold": {
       "title": "All INITIAL_COUNT minted!",
-      "body": "The Shinto Society have all been created",
+      "body": "The Misfits have all been created",
       "ps": "",
       "cta": "Buy Pre-Owned",
       "action": "GO_TO_PARAS"
@@ -51,8 +56,8 @@
   },
   "extraSections": [
     {
-      "text": "# Launching Partner TenkBay DAO",
-      "image": "learn.webp"
+      "text": "Launching Partner Tenk DAO",
+      "image": "tenk_logo_circle.png"
     }
   ]
 }
