@@ -28,6 +28,7 @@ const Section: React.FC<{
         )}
       </div>
     </div>
+
   </BackgroundImage>
 )
 
