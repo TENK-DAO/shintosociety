@@ -38,7 +38,7 @@
       }
     },
     "saleOpen": {
-      "ps": "Shinto Society Minting Has Begun! Remaining NFTs: REMAINING_COUNT",
+      "ps": "Shinto Society Minting Has Begun! \n\n Remaining NFTs: REMAINING_COUNT",
       "setNumber": "Number to mint",
       "cta": "Mint for MINT_PRICE",
       "action": "MINT",
